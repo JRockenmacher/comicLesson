@@ -53,3 +53,4 @@ Exercise using AJAX calls to the xkcd site and DOM manipulation
   - if you get stuck look at bootstrap or materialize docs
 
 #### When it is done deploy to surge!
+update on repo: Readin-Rx v-2
